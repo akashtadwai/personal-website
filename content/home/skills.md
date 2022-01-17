@@ -17,12 +17,18 @@ feature:
 - icon: cuttlefish
   icon_pack: fab
   name: C
+- icon: c++
+  icon_pack: custom
+  name: C++
 - icon: python
   icon_pack: fab
   name: Python
 - icon: js-square
   icon_pack: fab
   name: Javascript
+- icon: pytorch
+  icon_pack: custom
+  name: Pytorch
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
