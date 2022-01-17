@@ -12,9 +12,12 @@ weight: 130
 title: Contact
 subtitle:
 
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
+<form accept-charset="UTF-8" action="https://getform.io/f/0c1cd719-a767-46e3-a0e7-9d0d00df71dc" method="POST">
+    <input type="email" name="email" placeholder="Your Email">
+    <input type="text" name="name" placeholder="Your Name">
+    <input type="text" name="message" placeholder="Your Message">
+    <button type="submit">Send</button>
+</form>
   
   
 design:

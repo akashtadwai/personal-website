@@ -22,12 +22,9 @@ feature:
 - icon: python
   icon_pack: fab
   name: Python
-- icon: js
-  icon_pack: fas
+- icon: js-square
+  icon_pack: fab
   name: Javascript
-- icon: camera-retro
-  icon_pack: fas
-  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'

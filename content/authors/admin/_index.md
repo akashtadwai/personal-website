@@ -6,7 +6,7 @@ title: Akash Tadwai
 superuser: true
 
 # Role/position/tagline
-role: Senior year student @ [IIT Hyderabad](https://www.iith.ac.in/)
+role: Senior year student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -43,7 +43,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: 'uploads/resume.pdf'
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
@@ -63,4 +63,4 @@ highlight_name: true
 
 I'm Akash, a senior year student with a major in Computer Science and Engineering Science @ IIT Hyderabad. My interests include, but are not limited to Deep Learning, Competitive Programming. 
 You can find me binge-watching web series, movies or listening music or chatting with friends 😁
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

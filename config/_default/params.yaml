@@ -31,7 +31,7 @@ address:
 contact_links:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    mailto:
 
 
 # Site header
