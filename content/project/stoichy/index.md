@@ -4,7 +4,7 @@ summary: Single Palyer Unbeatable Tic-Tac-Toe Game.
 tags:
 - Minimax 
 - Backtracking
-date: "2019-05-09T00:00:00Z"
+date: "2020-05-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
