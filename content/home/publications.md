@@ -4,6 +4,7 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 weight: 50
+title: Publications
 content:
   # Filter content to display
   filters:

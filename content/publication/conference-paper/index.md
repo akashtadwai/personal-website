@@ -36,12 +36,6 @@ links:
   url: 'https://ieeexplore.ieee.org/document/9668482'
 url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9668482'
 url_code: 'https://github.com/ReethuVinta/AnomalyDetection'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
