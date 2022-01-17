@@ -1,10 +1,10 @@
 ---
-title: Stoichy
-summary: Stoichy is a Domain Specifc Language for balancing Complex Chemical Equations. Written Lexer, Parser, Semantic Analyser from scratch in Ocaml and Python.
+title: Unbeatable Tic-Tac-Toe
+summary: Single Palyer Unbeatable Tic-Tac-Toe Game.
 tags:
-- DSL
-- Compilers
-date: "2020-06-09T00:00:00Z"
+- Minimax 
+- Backtracking
+date: "2020-05-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,8 +13,8 @@ image:
   caption: TicTacToe      
   focal_point: Smart
 
-url_code: "https://github.com/akashtadwai/stoichy"
-url_pdf: "https://github.com/akashtadwai/stoichy/blob/master/Report-Stoichy/Report_Stoichy.pdf"
+url_code: "https://tictactoe-akashtadwai.herokuapp.com/"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -25,3 +25,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Designed an Unbeatable Tic-Tac-Toe Web app from scratch using Minimax-Max AI Algorithm and Alpha-Beta Pruning as a part of the Microsoft-Engage 2020 Program. Implemented a single-player (playing with AI) and a two-player game with undoing a move feature.

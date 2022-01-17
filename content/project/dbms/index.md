@@ -3,7 +3,8 @@ title: Designing a Database for IMDB Dataset
 summary: Designed a flexible and efficient Relational Database using *PostgreSQL* for movies and series based on IMDB datasets.
 tags:
 - DBMS
-date: "2021-04-09T00:00:00Z"
+date: "2021-06-09T00:00:00Z"
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
