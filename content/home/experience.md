@@ -27,9 +27,9 @@ experience:
     company_url: 'https://www.publicissapient.com/'
     location: Bangalore
     company_logo: ps
-    date_start: 'May 2021'
-    date_end: 'July 2021'
-    description: >-
+    date_start: '2021-05-24'
+    date_end: '2021-07-16'
+    description: |2-
         Designed a generic sectioning algorithm for Resume Parsing which parses various kinds of resumes
         Built an event-driven pipeline on *AWS* using Docker-based *Lambda* functions and Amazon *SQS*.
         
@@ -38,9 +38,9 @@ experience:
     company_url: 'https://www.iith.ac.in/'
     company_logo: iith
     location: Hyderabad 
-    date_start: 'May 2021'
-    date_end: 'July 2021'
-    description: >-
+    date_start: '2021-05-16'
+    date_end: '2021-07-31'
+    description: |2-
         Assisted Professor in creating, conducting and evaluating the course work of all students in 
         *Software Development Fundamentals* course.
 
