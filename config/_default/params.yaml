@@ -28,10 +28,7 @@ address:
   postcode: '502285'
   country: India 
   country_code: IN
-contact_links:
-  - icon: envelope
-    icon_pack: fas
-    mailto:
+
 
 
 # Site header
