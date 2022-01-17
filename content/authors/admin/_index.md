@@ -6,7 +6,7 @@ title: Akash Tadwai
 superuser: true
 
 # Role/position/tagline
-role: Senior year student @ IIT Hyderabad
+role: Senior year student @ [IIT Hyderabad](https://www.iith.ac.in/)
 
 # Organizations/Affiliations to show in About widget
 organizations:
