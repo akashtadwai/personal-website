@@ -3,7 +3,7 @@ widget: pages
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-
+weight: 50
 content:
   # Filter content to display
   filters:
@@ -24,6 +24,6 @@ content:
   order: desc
 design:
   # Toggle between the various page layout types. 
-  view: compact
+  view: citation
   columns: '2'
 ---
