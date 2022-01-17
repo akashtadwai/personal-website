@@ -26,7 +26,7 @@ experience:
     company: Publicis Sapient
     company_url: 'https://www.publicissapient.com/'
     location: Bangalore
-    company_logo: ps.svg
+    company_logo: ps
     date_start: 'May 2021'
     date_end: 'July 2021'
     description: >-
@@ -36,7 +36,7 @@ experience:
   - title: Teaching Assistant
     company: Indian Institute of Technology, Hyderabad
     company_url: 'https://www.iith.ac.in/'
-    company_logo: iith.svg
+    company_logo: iith
     location: Hyderabad 
     date_start: 'May 2021'
     date_end: 'July 2021'
