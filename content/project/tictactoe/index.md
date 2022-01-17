@@ -4,7 +4,7 @@ summary: Stoichy is a Domain Specifc Language for balancing Complex Chemical Equ
 tags:
 - DSL
 - Compilers
-date: "2020-05-09T00:00:00Z"
+date: "2020-06-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
