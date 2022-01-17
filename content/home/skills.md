@@ -26,9 +26,12 @@ feature:
 - icon: js-square
   icon_pack: fab
   name: Javascript
-- icon: pytorch
+- icon: torch
   icon_pack: custom
   name: Pytorch
+- icon: postgres
+  icon_pack: custom
+  name: PostgreSQL
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
