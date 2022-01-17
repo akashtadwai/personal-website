@@ -8,7 +8,7 @@ active: true
 
 # This file represents a page section.
 headless: true
-
+weight: 10
 
 
 title: $whoami

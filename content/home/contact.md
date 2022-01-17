@@ -6,7 +6,7 @@ widget: contact
 # This file represents a page section.
 headless: true
 
-
+weight: 60
 
 title: Contact
 subtitle:

@@ -5,7 +5,7 @@ widget: experience
 
 # This file represents a page section.
 headless: true
-
+weight: 20
 
 
 title: Experience

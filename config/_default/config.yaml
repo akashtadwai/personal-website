@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Akash Tadwai# Website name
+title: Akash Tadwai # Website name
 baseurl: https://akashtadwai.netlify.app/ # Website URL
 copyright: '©2021 akash_tadwai' # Footer text, e.g. '© {year} Me'
 
