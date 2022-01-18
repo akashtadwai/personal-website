@@ -6,7 +6,7 @@ authors:
 - Suresh Kumar Amalapuram
 - Sumohana S. Channappayya
 - Bheemarjuna Reddy Tamma
-date: "2013-07-01T00:00:00Z"
+date: "2022-07-01T00:00:00Z"
 doi: "10.1109/COMSNETS53615.2022.9668482"
 
 # Schedule page publish date (NOT publication's date).

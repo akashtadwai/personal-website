@@ -1,6 +1,6 @@
 ---
 title: Unbeatable Tic-Tac-Toe
-summary: Single Palyer Unbeatable Tic-Tac-Toe Game.
+summary: Single Palyer Unbeatable Tic-Tac-Toe Game using Minimax-Max AI Algorithm and Alpha-Beta Pruning
 tags:
 - Minimax 
 - Backtracking
@@ -13,7 +13,7 @@ image:
   caption: TicTacToe      
   focal_point: Smart
 
-url_website: "https://tictactoe-akashtadwai.herokuapp.com/"
+url_code: "https://tictactoe-akashtadwai.herokuapp.com/"
 url_pdf: ""
 url_slides: ""
 url_video: ""

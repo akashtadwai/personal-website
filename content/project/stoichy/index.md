@@ -25,3 +25,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Stoichy is a language that can be used to balance complex chemical equations defined by the user. This is a group Project as a part of Compilers course at IIT Hyderabad.
