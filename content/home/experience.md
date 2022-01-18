@@ -51,8 +51,7 @@ experience:
     date_start: '2020-10-16'
     date_end: '2021-05-31'
     description: |2-
-        My work as a core team member was to teach students algorithms, data
-structures, to introduce them to competitive programming.
+        My work as a core team member was to teach students algorithms, data structures, to introduce them to competitive programming.
 
   - title: Student Mentor 
     company: Indian Institute of Technology, Hyderabad
