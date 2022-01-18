@@ -65,4 +65,4 @@ I'm Akash, a senior year student with a major in Computer Science and Engineerin
 You can find me binge-watching web series, movies or listening music or chatting with friends 😁
 
 
-{{< icon name="download" pack="fas" >}}.Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
