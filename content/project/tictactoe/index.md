@@ -13,7 +13,7 @@ image:
   caption: TicTacToe      
   focal_point: Smart
 
-url_code: "https://tictactoe-akashtadwai.herokuapp.com/"
+url_website: "https://tictactoe-akashtadwai.herokuapp.com/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
