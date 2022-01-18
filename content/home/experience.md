@@ -43,6 +43,28 @@ experience:
         Assisted Professor in creating, conducting and evaluating the course work of all students in 
         *Software Development Fundamentals* course.
 
+  - title: Core Member (Infero)
+    company: Indian Institute of Technology, Hyderabad
+    company_url: 'https://scitech-iith.netlify.app/'
+    company_logo: iith
+    location: Hyderabad 
+    date_start: '2020-10-16'
+    date_end: '2021-05-31'
+    description: |2-
+        My work as a core team member was to teach students algorithms, data
+structures, to introduce them to competitive programming.
+
+  - title: Student Mentor 
+    company: Indian Institute of Technology, Hyderabad
+    company_url: 'https://sunshine.iith.ac.in/'
+    company_logo: iith
+    location: Hyderabad 
+    date_start: '2019-07-16'
+    date_end: '2020-07-31'
+    description: |2-
+        Mentored B. Tech first year students with regard to academic issues and general life at IIT Hyderabad.
+
+
 design:
   columns: '2'
 ---

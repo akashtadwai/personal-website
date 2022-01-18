@@ -8,7 +8,7 @@ headless: true
 
 weight: 60
 
-title: Contact
+title: Get in Touch 📝 
 subtitle:
 content:
   autolink: true 
@@ -27,8 +27,8 @@ design:
    <label>Subject*</label>
         <input type="text" placeholder="Subject*" class="form-input" name="entry.1043109960" required>
 
-   <label>Message</label>
-        <textarea rows="5" placeholder="Message" class="form-input" name="entry.1348223678" ></textarea>
+   <label>Message*</label>
+        <textarea rows="5" placeholder="Message*" class="form-input" name="entry.1348223678" ></textarea>
 
    <button type="submit">Send</button>
 </form>
