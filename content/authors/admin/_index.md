@@ -62,7 +62,7 @@ highlight_name: true
 ---
 
 I'm Akash, a senior year student with a major in Computer Science and Engineering Science @ IIT Hyderabad. My interests include, but are not limited to Deep Learning, Competitive Programming. 
-You can find me binge-watching web series, movies or listening music or chatting with friends 😁
+In my free time you can find me binge-watching web series, movies or listening music or gossipping with friends 😁
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
