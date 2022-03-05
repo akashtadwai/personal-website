@@ -1,9 +1,9 @@
 ---
 title: "Continual Learning for Anomaly based Network Intrusion Detection"
 authors:
+- Suresh Kumar Amalapuram
 - admin
 - Reethu Vinta
-- Suresh Kumar Amalapuram
 - Sumohana S. Channappayya
 - Bheemarjuna Reddy Tamma
 date: "2022-07-01T00:00:00Z"
