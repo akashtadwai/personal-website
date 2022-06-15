@@ -61,7 +61,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm Akash, a senior year student with a major in Computer Science and Engineering Science [@IIT Hyderabad](https://www.iith.ac.in/). My interests include, but are not limited to Deep Learning, Competitive Programming. 
+I'm Akash, a Quantitative Research Analyst [@JPMorgan Chase](https://www.jpmorganchase.com/). I am a graduate from [@IIT Hyderabad](https://www.iith.ac.in/) majoring in Computer Science and Engineering Science . My interests include, but are not limited to Deep Learning, Competitive Programming. 
 In my free time you can find me binge-watching web series, movies or listening music or gossipping with friends 😁
 
 

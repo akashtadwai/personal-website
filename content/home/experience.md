@@ -21,6 +21,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Quantitative Research Analyst
+    company: JPMorgan Chase
+    company_url: 'https://www.jpmorganchase.com/'
+    location: Mumbai
+    company_logo: 'https://upload.wikimedia.org/wikipedia/commons/0/07/J_P_Morgan_Chase_Logo_2008_1.svg'
+    date_start: '2022-06-06'
+    description: |2-
+    Working as an Quantitative Research Analyst in QR Rates Team.
+
   - title: Engineering Intern
     company: Publicis Sapient
     company_url: 'https://www.publicissapient.com/'
