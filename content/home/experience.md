@@ -26,10 +26,10 @@ experience:
     company: JPMorgan Chase
     company_url: 'https://www.jpmorganchase.com/'
     location: Mumbai
-    company_logo: 'https://upload.wikimedia.org/wikipedia/commons/0/07/J_P_Morgan_Chase_Logo_2008_1.svg'
+    company_logo: jpmc
     date_start: '2022-06-06'
     description: |2-
-    Working as an Quantitative Research Analyst in QR Rates Team.
+      Working as an Quantitative Research Analyst in QR Rates Team.
 
   - title: Engineering Intern
     company: Publicis Sapient

@@ -6,33 +6,40 @@ title: Akash Tadwai
 superuser: true
 
 # Role/position/tagline
-role: Senior year student
+role: QR Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Indian Institute of Technology Hyderabad
-  url: https://www.iith.ac.in/
+- name: JPMorgan Chase & Co.
+  url: https://www.jpmorganchase.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Love to  explore different things. Main interests include Deep Learning and Competitive Programming. 
+bio: Love to  explore different things. Main interests include Deep Learning and Competitive Programming, Linux. 
 
 # Interests to show in About widget
 interests:
 - Deep Learning
 - Problem Solving and Math
+- Linux & OpenSource
 
 # Education to show in About widget
 education:
   courses:
   - course: BTech. in Computer Science and Engineering Science
-    institution: Indian Institute of Technology, Hyderabad
+    institution: |2-
+      Indian Institute of Technology, Hyderabad
+      CGPA: 9.25 
     year: July 2018 - present
-    CGPA: 9.31 (Till semester-7)
+    grade: 9.25
   - course: Entrepreneurship and Management (Minor)
-    institution: Indian Institute of Technology, Hyderabad
+    institution: |2-
+      Indian Institute of Technology, Hyderabad
+      CGPA: 9.75 
     year: July 2018 - present
   - course: Intermediate Education
-    institution: Sri Chaitanya Junior College, Madhapur
+    institution: |2-
+      Sri Chaitanya Junior College, Madhapur
+      Grade: 988/1000
     year: 2016 - 2018 
 
 
@@ -61,7 +68,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm Akash, a Quantitative Research Analyst [@JPMorgan Chase](https://www.jpmorganchase.com/). I am a graduate from [@IIT Hyderabad](https://www.iith.ac.in/) majoring in Computer Science and Engineering Science . My interests include, but are not limited to Deep Learning, Competitive Programming. 
+I'm Akash, a Quantitative Research Analyst [@JPMorgan Chase](https://www.jpmorganchase.com/). I am a graduate from [@IIT Hyderabad](https://www.iith.ac.in/) majoring in Computer Science and Engineering Science with a minor in Entrepreneurship and Management . My interests include, but are not limited to Deep Learning, Competitive Programming, Exploring Tech. 
 In my free time you can find me binge-watching web series, movies or listening music or gossipping with friends 😁
 
 
