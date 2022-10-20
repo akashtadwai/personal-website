@@ -23,13 +23,13 @@ date_format: Jan 2006
 experience:
 
   - title: Quantitative Research Analyst
-    company: JPMorgan Chase
+    company: JPMorgan Chase & Co.
     company_url: 'https://www.jpmorganchase.com/'
     location: Mumbai
     company_logo: jpmc
     date_start: '2022-06-06'
     description: |2-
-      Working as an Quantitative Research Analyst in QR Rates Team.
+      Working as an Quantitative Research Analyst in QR Rates Team. Developing and Testing different Interest Rate products.
 
   - title: Engineering Intern
     company: Publicis Sapient
