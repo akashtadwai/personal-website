@@ -29,7 +29,7 @@ experience:
     company_logo: jpmc
     date_start: '2022-06-06'
     description: |2-
-      Working as an Quantitative Research Analyst in QR Rates Team. Developing and Testing different Interest Rate products.
+      Working as an Quantitative Research Analyst in QR Rates Team. DDeveloping Price and Risk Infrastructure for Interest Rate Derivatives.
 
   - title: Engineering Intern
     company: Publicis Sapient
