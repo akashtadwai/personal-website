@@ -25,6 +25,6 @@ url_video: ""
 slides: ""
 links:
   - name: Website
-  - url: "https://akashtadwai.github.io/Tic-Tac-Toe/"
+    url: "https://akashtadwai.github.io/Tic-Tac-Toe/"
 ---
 Designed an Unbeatable Tic-Tac-Toe Web app from scratch using Minimax-Max AI Algorithm and Alpha-Beta Pruning as a part of the Microsoft-Engage 2020 Program. Implemented a single-player (playing with AI) and a two-player game with undoing a move feature.
