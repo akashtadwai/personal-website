@@ -17,14 +17,14 @@ url_code: "https://github.com/akashtadwai/Tic-Tac-Toe"
 url_pdf: ""
 url_slides: ""
 url_video: ""
-links:
-  - name: Website
-  - url: "https://akashtadwai.github.io/Tic-Tac-Toe/"
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+links:
+  - name: Website
+  - url: "https://akashtadwai.github.io/Tic-Tac-Toe/"
 ---
 Designed an Unbeatable Tic-Tac-Toe Web app from scratch using Minimax-Max AI Algorithm and Alpha-Beta Pruning as a part of the Microsoft-Engage 2020 Program. Implemented a single-player (playing with AI) and a two-player game with undoing a move feature.
