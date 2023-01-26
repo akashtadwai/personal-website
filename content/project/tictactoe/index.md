@@ -14,6 +14,7 @@ image:
   focal_point: Smart
 
 url_code: "https://github.com/akashtadwai/Tic-Tac-Toe"
+url_website: "https://akashtadwai.github.io/Tic-Tac-Toe/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
