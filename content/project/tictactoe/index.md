@@ -7,13 +7,14 @@ tags:
 date: "2020-05-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://akashtadwai.github.io/Tic-Tac-Toe/"
+external_link: ""
 
 image:
   caption: TicTacToe      
   focal_point: Smart
 
 url_code: "https://github.com/akashtadwai/Tic-Tac-Toe"
+url_website: "https://akashtadwai.github.io/Tic-Tac-Toe/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
