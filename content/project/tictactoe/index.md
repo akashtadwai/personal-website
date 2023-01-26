@@ -7,7 +7,7 @@ tags:
 date: "2020-05-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://akashtadwai.github.io/Tic-Tac-Toe/"
+external_link: ""
 
 image:
   caption: TicTacToe      
@@ -17,7 +17,9 @@ url_code: "https://github.com/akashtadwai/Tic-Tac-Toe"
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
+links:
+  - name: Website
+  - url: "https://akashtadwai.github.io/Tic-Tac-Toe/"
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
