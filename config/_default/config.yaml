@@ -25,6 +25,20 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /posts/**
+    pager: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    show_breadcrumb: true
+    share: true
+    header:
+      navbar:
+        enable: false
+
 ############################
 ## ADVANCED
 ############################
