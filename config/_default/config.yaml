@@ -38,6 +38,22 @@ cascade:
     header:
       navbar:
         enable: false
+header:
+  navbar:
+    block: navbar
+    enable: true
+    show_search: true
+    highlight_active_link: true 
+
+features:
+  comment:
+    # Choose a provider: giscus, disqus, commento, or '' to disable commenting
+    provider: 'disqus'
+    disqus:
+      # Paste the shortname from your Disqus dashboard.
+      shortname: 'https-akashtadwai-netlify-app'
+      # Show comment count in page header? (true/false)
+      show_count: true
 
 ############################
 ## ADVANCED
@@ -84,3 +100,10 @@ related:
       weight: 70
 security:
   _merge: deep
+
+customtextFontFamily : "Hanken Grotesk"
+customheadingFontFamily : "Fraunces"
+# alternatively, leave empty and select basic font options: sans-serif or serif
+# for more http://tachyons.io/docs/typography/font-family/
+textFontFamily : "sans-serif"
+headingFontFamily : "sans-serif"
