@@ -4,7 +4,7 @@
 title: "The Push Review"
 subtitle: ""
 summary: "Review of the book `The Push` by Ashley Audrain"
-authors: []
+authors: ["Ashley Audrain"]
 categories: ["books"]
 tags: ["thriller", "books"]
 date: 2023-05-28T00:44:42+05:30
