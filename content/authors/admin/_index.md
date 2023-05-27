@@ -29,13 +29,13 @@ education:
     institution: |2-
       Indian Institute of Technology, Hyderabad
       CGPA: 9.25 
-    year: July 2018 - present
+    year: July 2018 - Aug 2022
     grade: 9.25
   - course: Entrepreneurship and Management (Minor)
     institution: |2-
       Indian Institute of Technology, Hyderabad
       CGPA: 9.75 
-    year: July 2018 - present
+    year: July 2018 - Augo 2022
   - course: Intermediate Education
     institution: |2-
       Sri Chaitanya Junior College, Madhapur
@@ -69,7 +69,8 @@ highlight_name: true
 ---
 
 I'm Akash, a Quantitative Research Analyst [@JPMorgan Chase](https://www.jpmorganchase.com/). I am a graduate from [@IIT Hyderabad](https://www.iith.ac.in/) majoring in Computer Science and Engineering Science with a minor in Entrepreneurship and Management . My interests include, but are not limited to Deep Learning, Competitive Programming, Exploring Tech. 
-In my free time you can find me binge-watching web series, movies or listening music or gossipping with friends 😁
+
+In my free time you can find me binge-watching web series, movies or gossipping with friends 😁. I've recently started reading some books and I post my reviews in the [blog]({{< ref "/post" >}} "blog section"). Feel free to check them out if you find the reviews intriguing 🙃
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}

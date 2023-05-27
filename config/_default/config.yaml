@@ -29,7 +29,7 @@ enableEmoji: true
 cascade:
   # Configure blog posts
   - _target:
-      path: /posts/**
+      path: post/** 
     pager: true
     reading_time: true
     commentable: true

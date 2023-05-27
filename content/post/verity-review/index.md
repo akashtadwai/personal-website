@@ -3,7 +3,7 @@
 
 title: "Verity Review"
 subtitle: ""
-summary: "My review of the book `Verity` by Colleen Hoover"
+summary: "Review of the book `Verity` by Colleen Hoover"
 authors: ["Colleen Hoover"]
 type: "post"
 tags: ["thriller", "books"]
