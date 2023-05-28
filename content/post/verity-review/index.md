@@ -9,7 +9,6 @@ type: "post"
 tags: ["thriller", "books"]
 categories: ["books"]
 date: 2023-05-13T12:20:41+05:30
-lastmod: 2023-05-13T12:20:41+05:30
 featured: true
 draft: false
 show_date: true

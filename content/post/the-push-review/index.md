@@ -8,7 +8,6 @@ authors: ["Ashley Audrain"]
 categories: ["books"]
 tags: ["thriller", "books"]
 date: 2023-05-28T00:44:42+05:30
-lastmod: 2023-05-28T00:44:42+05:30
 featured: true
 draft: false
 show_date: true
